@@ -1,0 +1,8 @@
+*.tgz
+.vscode
+
+node_modules/
+build/
+dist/
+logs/
+tmp/
