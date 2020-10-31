@@ -14,7 +14,7 @@ Crawl AJAX-heavy client-side Single Page Applications (SPAs), deploying with doc
 
 系统设计相关请参考 [系统设计](./系统设计.md)，更多子模块参考：
 
-- [cendertron-bypass](https://github.com/BE-Kits/cendertron-bypass)
+- [cendertron-bypass](https://github.com/wx-chevalier/cendertron-bypass)
 
 # Usage | 使用
 
